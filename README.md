@@ -1,4 +1,4 @@
-# Smart_-Flowerpot_using_Arduino
+# Smart_Flowerpot_using_Arduino
 Smart_ Flowerpot_using_Arduino
 
 using Arduino and MBlock 
